@@ -1,0 +1,138 @@
+{
+    "data" :
+    [
+        {
+            "id" : 1,
+            "name" : "Jason Statham",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Jason_Statham_2018.jpg",
+            "department" : "Action"
+        },
+        {
+            "id" : 2,
+            "name" : "Dwayne Johnson",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dwayne_Johnson-1764_%284x5_cropped_with_moderate_headroom%29.jpg",
+            "department" : "Action"
+        },
+        {
+            "id" : 3,
+            "name" : "Rowan Atkinson",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rowan_Atkinson%2C_2011.jpg",
+            "department" : "Comedy"
+        },
+        {
+            "id" : 4,
+            "name" : "Jim Carrey",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jim_Carrey_2020_%28cropped2%29.jpg",
+            "department" : "Comedy"
+        },
+        {
+            "id" : 5,
+            "name" : "Kate Winslet",
+            "gender": "Female",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/KateWinslet_%28cropped%29.jpg",
+            "department" : "Romance"
+        },
+        {
+            "id" : 6,
+            "name" : "Milla Jovovich",
+            "gender": "Female",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Milla_Jovovich_by_Gage_Skidmore.jpg",
+            "department" : "Action"
+        },
+        {
+            "id" : 7,
+            "name" : "Jennifer Aniston",
+            "gender": "Female",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/JenniferAnistonFeb09.jpg",
+            "department" : "Romance"
+        },
+        {
+            "id" : 8,
+            "name" : "Randall Blythe",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/2015_RiP_Lamb_of_God_-_Randy_Blythe_by_2eight_-_3SC5529.jpg",
+            "department" : "Metal"
+        },
+        {
+            "id" : 9,
+            "name" : "Elizabeth Hale",
+            "gender": "Female",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lzzy_Hale_2023_%28cropped%29.jpg",
+            "department" : "Rock"
+        },
+        {
+            "id" : 10,
+            "name" : "Derrick Green",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sepultura_With_Full_Force_2014_15_%28cropped%29.jpg",
+            "department" : "Metal"
+        },
+        {
+            "id" : 11,
+            "name" : "Amanda Somerville",
+            "gender": "Female",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/K%C3%B6ln_ESC_Unser_Lied_fuer_Stockholm_Avantasia_%283x4_cropped%29.jpg",
+            "department" : "Metal"
+        },
+        {
+            "id" : 12,
+            "name" : "Bruce Dickinson",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bruce_Dickinson_-_The_Mandrake_Project_%2812%29_%2853817871253%29_%28cropped%29.jpg",
+            "department" : "Metal"
+        },
+        {
+            "id" : 13,
+            "name" : "Dave Mustaine",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/HF2022Megadeth_2.jpg",
+            "department" : "Metal"
+        },
+        {
+            "id" : 14,
+            "name" : "Corey Taylor",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/W0919-Hellfest2013_StoneSour_CoreyTaylor_71660-Cropped.JPG",
+            "department" : "Metal"
+        },
+        {
+            "id" : 15,
+            "name" : "Geddy Lee",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Geddy_Lee_Milan_2004.jpg",
+            "department" : "Rock"
+        },
+        {
+            "id" : 16,
+            "name" : "Nicole Row",
+            "gender": "Female",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Incubus_-_2023154180903_2023-06-03_Rock_am_Ring_-_Sven_-_1D_X_MK_II_-_1202_-_AK8I7143.jpg",
+            "department" : "Rock"
+        },
+        {
+            "id" : 17,
+            "name" : "John Petrucci",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/DreamTheater_TonsOfRock-2025_00002.jpg",
+            "department" : "Metal"
+        },
+        {
+            "id" : 18,
+            "name" : "Jeff Loomis",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/VSpectrum-Arch_Enemy-Jeff_Loomis-0093_%28cropped%29.jpg",
+            "department" : "Metal"
+        },
+        {
+            "id" : 19,
+            "name" : "John Christopher Depp",
+            "gender": "Male",
+            "img_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Johnny_Depp_%28July_2009%29_2.jpg",
+            "department" : "Comedy"
+        }
+    ]
+}
